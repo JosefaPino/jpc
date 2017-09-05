@@ -4,12 +4,13 @@ body{
   font-family: 'PT Serif', serif;*/
   font-family: Georgia, serif;
   font-weight:400;
-  color:#f00;
+  color:#fff;
   background-color:#ff0;
-  background-image: url(´https://www.google.cl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjV4KXqsI7WAhUJ6GMKHdCvCZMQjRwIBw&url=http%3A%2F%2Fes.warnerbros.wikia.com%2Fwiki%2FPiol%25C3%25ADn&psig=AFQjCNGFlEznl9k4Il_763UB9occkPf5pA&ust=1504712232358299 image´);
+  background-image: url('https://media3.giphy.com/avatars/100soft/WahNEDdlGjRZ.gif');
+  background-size: 100%;
 }
 
-a{color:#000; text-decoration: none; border-bottom:1px dotted #ccc;}
+a{color:#fff; text-decoration: none; border-bottom:1px dotted #ccc;}
 
 a:hover{color:#f00; border-bottom:1px dotted #f00;}
 
@@ -30,7 +31,7 @@ abbr{text-decoration: none; cursor: help;}
 
 .contenedor img{width: 100%; height:auto;}
 strong,b,abbr{font-weight: 700; color:#444}
-h1,h2,h3,h4,h5,h6{font-weight: 800; font-family: 'Open Sans', sans-serif; color:#000;}
+h1,h2,h3,h4,h5,h6{font-weight: 800; font-family: 'Open Sans', sans-serif; color:#fff;}
 p,h6{font-size:1em; line-height: 1.5; margin-top:1em;}
 h5{font-size:1.2em; line-height: 1.8; margin-top:1em;}
 h4{font-size:1.3em; line-height: 1.5; margin-top:2em;}
@@ -53,7 +54,7 @@ figure figcaption{padding:0.25em; font-size:80%; color:#444;}
 
 code{font-family: 'Source Code Pro', monospace; font-weight: 500; font-size:1.05em;}
 
-code span{color:#000;}
+code span{color:#fff;}
 
 pre code{font-weight: 300; background:#333; color: #fff; padding:0.2em 0.4em; border-radius: 4px; font-size:0.95em;}
 
